@@ -1,0 +1,40 @@
+.course-card {
+    margin-bottom: 30px;
+  }
+  .course-card img {
+    width: 100%;
+    height: auto;
+  }
+  .course-title {
+    font-size: 1.25rem;
+    font-weight: bold;
+  }
+  .course-instructor {
+    color: #555;
+  }
+  .course-price {
+    font-size: 1.1rem;
+    font-weight: bold;
+    color: #e67e22;
+  }
+  .welcome-section {
+    position: relative;
+    text-align: center;
+    padding: 100px 0; /* Prilagodite visinu dobrodošlice */
+    color: black; /* Boja teksta */
+  }
+  
+  .circle-image {
+    width: 20vw;
+    height: 20vw;
+    border-radius: 50%;
+    background-image: url('../../../../assets/Logo.jpg');
+    background-size: cover;
+    background-position: center;
+    position: absolute;
+    top: 30%;
+    left: 10%;
+    transform: translate(-50%, -50%);
+    z-index: -1;
+  }
+  

@@ -1,0 +1,14 @@
+
+.bg-light {
+    background-color: #f8f9fa; /* Boja pozadine za gornji deo footera */
+    color: #333; /* Boja teksta */
+}
+
+.text-dark {
+    color: #333; 
+}
+
+.text-white {
+    color: #fff; /* Boja teksta za donji deo footera */
+}
+

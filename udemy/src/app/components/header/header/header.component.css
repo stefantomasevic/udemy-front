@@ -1,0 +1,13 @@
+/* header.component.css */
+
+.navbar {
+    margin-left: -20px; /* Prilagodite vrednost po potrebi */
+}
+
+.navbar-nav .nav-link {
+    padding: 0.5rem 1rem; /* Prilagodite vrednosti za padding po potrebi */
+}
+
+.navbar-nav .nav-link.btn {
+    margin-left: 1rem; /* Prilagodite vrednost po potrebi */
+}
